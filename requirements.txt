@@ -1,0 +1,8 @@
+
+gradio
+google-genai
+pandas
+numpy
+scikit-learn
+joblib
+Pillow
