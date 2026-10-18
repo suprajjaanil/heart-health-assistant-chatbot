@@ -1,5 +1,13 @@
 # Heart Health Assistant Chatbot ❤️
 
+## 🚀 Live Demo
+
+**Try the app:** [Heart Health Assistant](https://heart-health-assistant-chatbot.onrender.com)
+
+Explore heart-health education, machine-learning-based heart disease prediction, and ECG image upload with basic image inspection.
+
+**Disclaimer:** This project is for educational purposes only and does not provide medical diagnoses.
+
 ## Overview
 
 Heart Health Assistant Chatbot is an educational healthcare-support application that combines machine learning, ECG image classification, and conversational AI in an interactive interface.
